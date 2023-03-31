@@ -1,6 +1,6 @@
 Name:		texlive-bidipagegrid
 Version:	34632
-Release:	1
+Release:	2
 Summary:	Bidi-aware page grid in background
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidipagegrid
